@@ -51,13 +51,13 @@ It allows users to input a movie name and get recommendations for similar movies
 ## File Structure
 ```
 movie-recommender-system/
-|-- app.py                 # Main application file
-|-- movies.pkl             # Preprocessed movie dataset
-|-- similarity.pkl         # Precomputed similarity matrix
-|-- movies.pkl             # Preprocessed movie dataset
-|-- movies.pkl             # Preprocessed movie dataset
-|-- requirements.txt       # Required Python libraries
-|-- README.md              # Project documentation (this file)
+|-- app.py                                     # Main application file
+|-- movies.pkl                                 # Preprocessed movie dataset
+|-- similarity.pkl                             # Precomputed similarity matrix
+|-- movie-recommender-system.ipynb             # jupyter source file enlisting preprocessing steps
+|-- tmdb_5000_movies                           # TMDB movie dataset
+|-- requirements.txt                           # Required Python libraries
+|-- README.md                                  # Project documentation (this file)
 ```
 
 ---
