@@ -94,3 +94,6 @@ pip install -r requirements.txt
 
 ### Output
 - A list of 5 recommended movies along with their posters.
+![gui](https://github.com/user-attachments/assets/e697368b-9436-43c1-b8a2-a6a2a28704bc)
+![gui2](https://github.com/user-attachments/assets/24d5d7fe-3dbc-483d-8c8d-5704f92ba63b)
+
